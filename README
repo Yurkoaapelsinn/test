@@ -3,3 +3,4 @@
 test 3 
 test4
 test git rebase
+git pull rebase
